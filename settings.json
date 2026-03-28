@@ -6,7 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "CractersPalace.aternos.me",
+    "ip": "CractersPalace.aternos.me:16757",
+    "port": 16757,
     "version": "1.21.11",
     "try-creative": false
   },
