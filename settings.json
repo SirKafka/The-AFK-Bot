@@ -1,16 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "NigaBot",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "",
-    "ip": "",
     "ip": "CractersPalace.aternos.me",
     "port": 16757,
-    "version": "",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
